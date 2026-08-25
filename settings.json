@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MomosKhilaDE.aternos.me",
-    "port": 32694,
+    "ip": "amanmomoskhilade.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
